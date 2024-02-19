@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://cdn-icons-png.flaticon.com/512/5787/5787016.png',
+          src: 'https://i.pinimg.com/736x/5a/43/b8/5a43b8a798b221d4fe75f1dab7515255.jpg',
         },
         items: [
           // {
