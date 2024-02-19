@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentación Chat Buho',
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://i.pinimg.com/736x/14/d9/c8/14d9c8c29e10be22059b7cbae79b6398.jpg',
 
   // Set the production url of your site here
   url: 'https://jhonjr07.github.io/',
